@@ -82,7 +82,7 @@
  i will be happy to assist 
 # 
 ## want something improved or added?
- make a pull request at github @ github.com/maina-dennis
+  fork me at github @ github.com/maina-dennis
 # 
 ## Regards,
 # Dentricedev

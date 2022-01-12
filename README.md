@@ -11,7 +11,7 @@
 # Date 
 * Wed ,May 13 2020
 # Github 
-* github.com/maina-dennis
+* github.com/mainadennis
 # 
 ### preriquisites
 * A logs folder with read/write permision
@@ -82,7 +82,7 @@
  i will be happy to assist 
 # 
 ## want something improved or added?
-  fork me at github @ github.com/maina-dennis
+  fork me at github @ github.com/mainadennis
 # 
 ## Regards,
 # Dentricedev

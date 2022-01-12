@@ -11,7 +11,7 @@
 # Date 
 * Wed ,May 13 2020
 # Github 
-* github.com/mainadennis
+* > [Maina Dennis](github.com/mainadennis)
 # 
 ### preriquisites
 * A logs folder with read/write permision
@@ -79,10 +79,10 @@
 ## Having troubles implementing?
 ## Found a bug in the program?
  reach to me maina@dentricedev.com 
- i will be happy to assist 
+ I will be happy to assist 
 # 
 ## want something improved or added?
-  fork me at github @ github.com/mainadennis
+  fork the repo @ [GitHub](https://github.com/mainadennis/php-class-for-php-and-sql-error-logging-into-a-file).
 # 
 ## Regards,
 # [DentriceDev Solutions](https://dentricedev.com).

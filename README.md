@@ -7,7 +7,7 @@
 # Author 
  DENNIS MAINA
 # Contact
-* mainaj115@gmail.com
+* maina@dentricedev.com
 # Date 
 * Wed ,May 13 2020
 # Github 
@@ -78,11 +78,11 @@
 # 
 ## Having troubles implementing?
 ## Found a bug in the program?
- reach to me @mainaj115@gmail.com 
+ reach to me maina@dentricedev.com 
  i will be happy to assist 
 # 
 ## want something improved or added?
   fork me at github @ github.com/mainadennis
 # 
 ## Regards,
-# Dentricedev
+# [DentriceDev Solutions](https://dentricedev.com).

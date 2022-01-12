@@ -11,7 +11,7 @@
 # Date 
 * Wed ,May 13 2020
 # Github 
-* > [Maina Dennis](github.com/mainadennis)
+ > [Maina Dennis](github.com/mainadennis)
 # 
 ### preriquisites
 * A logs folder with read/write permision

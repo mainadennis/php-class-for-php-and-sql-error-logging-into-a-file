@@ -1,4 +1,4 @@
- * Project:  Errorreporting: A PHP class dealing with php errors and writting them in a specified file
+ * Project:  Error reporting: A PHP class dealing with php errors and writting them in a specified file
  * File:     Error.class.php
  *
  * Copyright (c) 2020, Dennis Maina
